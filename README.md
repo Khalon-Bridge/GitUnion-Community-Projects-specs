@@ -32,3 +32,19 @@ This feature offers a direct tipping mechanism that enables users to financially
 - [ ] [Security and Compliance Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/17)
 
 
+
+
+## Feature: Personal Tax Distribution and Advocacy Microsite
+This microsite empowers users by providing personalized insights into their tax contributions and allowing for proactive civic engagement. Upon entering their annual income and location, the platform calculates the individual's contributions to city, state, and federal taxes. A visual breakdown displays the distribution of these taxes in accordance with actual public budgets, expressed in percentages. The innovative feature of this microsite is the interactive budget reallocation tool that invites users to realign their tax contributions to preferred governmental functions. It encourages informed decision-making by highlighting the disparity between actual and user-preferred budget allocations. Following adjustments, users can directly email their representatives with a structured message advocating for the reappropriation of public funds. This feature not only enhances transparency and awareness regarding public spending but also equips citizens to voice their priorities, bridging the gap between taxpayers and legislative authorities for a more representative democracy.
+
+***Stories***
+- [ ] [Tax Distribution Calculator](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/19)
+- [ ] [Income & Location Input Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/20)
+- [ ] [Tax Breakdown Functionality](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/21)
+- [ ] [Budget Allocation Visualization](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/22)
+- [ ] [Custom Budget Allocation Tool Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/23)
+- [ ] [Representative Contact Form](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/24)
+- [ ] [Tax Distribution Microsite](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/25)
+- [ ] [Tax Visualization and Allocation Microsite](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/26)
+
+
