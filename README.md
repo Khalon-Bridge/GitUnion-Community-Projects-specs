@@ -111,3 +111,19 @@ The SovereignOS Mini is a compact and powerful computer that mirrors the form fa
 - [ ] [Cooling System Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/62)
 
 
+
+
+## Feature: Shared on-chain radio station
+This innovative feature represents a decentralized approach to music broadcasting, leveraging the Ethereum blockchain to manage a global playlist. Users interact with the system using ETH to submit their choice of songs to the playlist, effectively creating a crowdsourced music selection. To prioritize their selection, users can opt to pay an additional fee to 'skip the line,' ensuring their song plays sooner. If a user does not like the current song, they can pay to have it removed, injecting a dynamic and interactive element into the listening experience. This democratic and financial model incentivizes participation and could potentially be used to support artists or raise funds for various causes. Listening is accessible directly through the website, providing a seamless user experience, or through embedded players on other sites, extending its reach. By leveraging blockchain technology, the system ensures transparency and tracks ownership of transactions for each song submission or removal, thus solving the problem of centralized control in traditional radio broadcasting and offering a unique communal listening experience.
+
+***Stories***
+- [ ] [User Authentication](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/64)
+- [ ] [ETH Wallet Integration](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/65)
+- [ ] [Song Submission Interface](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/66)
+- [ ] [Global Playlist Management for On-chain Radio Station](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/67)
+- [ ] [On-Chain Radio Payment and Bidding System](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/68)
+- [ ] [Song Playback Functionality](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/69)
+- [ ] [Embeddable Player Widget Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/70)
+- [ ] [Shared On-chain Radio Station Governance](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/71)
+
+
