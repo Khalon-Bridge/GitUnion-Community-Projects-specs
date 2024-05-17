@@ -159,3 +159,19 @@ The proposed platform addresses the critical need for a mutual aid system that i
 - [ ] [Decentralized Emergency Fund Platform Interface Design](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/89)
 
 
+
+
+## Feature: An Electric Bike
+An electric bike, or e-bike, is a bicycle equipped with an electric motor that assists with pedaling, enhancing the rider's ability to travel longer distances, climb hills with less effort, and maintain higher speeds without significant fatigue. This addresses the problem of physical strain and sweaty commutes often associated with traditional cycling, making it a more accessible and sustainable mode of transportation for a diverse range of fitness levels. Benefits include improved mobility, reduced environmental impact compared to cars, cost savings on fuel and maintenance, and the promotion of a healthier lifestyle through encouraged outdoor activity.
+
+***Stories***
+- [ ] [Frame and Body for Electric Bike](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/91)
+- [ ] [Electric Bike Battery and Management System Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/92)
+- [ ] [Electric Motor Specifications for Electric Bike](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/93)
+- [ ] [Electric Bike Drivetrain Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/94)
+- [ ] [Control Interface for Electric Bike](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/95)
+- [ ] [Braking System](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/96)
+- [ ] [Electric Bike Suspension System](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/97)
+- [ ] [Electric Bike Wheel and Tire Specification](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/98)
+
+
