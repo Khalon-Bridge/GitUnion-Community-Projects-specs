@@ -207,3 +207,19 @@ This platform serves as an integrated solution for the management and control of
 - [ ] [Security and Compliance Management](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/116)
 
 
+
+
+## Feature: E-paper Shipping Tags
+E-paper shipping tags harness electronic paper technology to display shipping information on packages dynamically. Unlike traditional paper labels, e-paper tags are reusable, programmable, and easily updated through wireless signals. They solve the problem of wasteful, single-use paper labels and reduce errors in logistics by enabling real-time updates of shipping details, even after a package is in transit. Benefits include enhanced efficiency in package handling, improved tracking accuracy, eco-friendly operations with less waste, and potential savings for logistical operations through reduced label costs and improved delivery accuracy.
+
+***Stories***
+- [ ] [E-paper Shipping Tag Integration](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/118)
+- [ ] [ShippingDestination Specification](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/119)
+- [ ] [TrackingCode for E-paper Shipping Tags](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/120)
+- [ ] [WeightDetails for e-paper Shipping Tag](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/121)
+- [ ] [Barcode Specifications for E-Paper Shipping Tags](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/122)
+- [ ] [Sender Information for e-Paper Shipping Tags](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/123)
+- [ ] [Battery Indicator for E-Paper Shipping Tags](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/124)
+- [ ] [DateOfShipment for e-paper shipping tags](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/125)
+
+
