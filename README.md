@@ -540,3 +540,19 @@ The bot is designed to traverse the internet, with a focus on social platforms l
 - [ ] [MonitoringAndEvaluation Specification](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/302)
 
 
+
+
+## Feature: Address Verification Guard for Crypto Transfers
+This feature acts as an additional layer of security, specifically designed to mitigate the risk of users accidentally sending cryptocurrency to incorrect addresses. It addresses the common problem where a single character mistake in a long alphanumeric address can result in the irreversible loss of funds. By implementing a multi-stage address verification process, which may include address checksum validations, optional address whitelisting, confirmation of the first few and last few characters of the address, and a secondary confirmation step via email or SMS, the feature significantly reduces the chances of an erroneous transaction. Furthermore, users can benefit from an 'address book' function that securely stores and labels frequently used addresses, thus promoting both convenience and safety. This robust verification mechanism ultimately instills confidence in users as they carry out transactions, knowing that there are multiple checkpoints in place to prevent costly mistakes.
+
+***Stories***
+- [ ] [Address Verification Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/304)
+- [ ] [Confirmation Prompt Specification](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/305)
+- [ ] [Contact List Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/306)
+- [ ] [Address Alias Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/307)
+- [ ] [Checksum Validation for Crypto Transactions](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/308)
+- [ ] [Secondary Authentication for Crypto Transactions](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/309)
+- [ ] [Transaction History Review](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/310)
+- [ ] [Address Book Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/311)
+
+
