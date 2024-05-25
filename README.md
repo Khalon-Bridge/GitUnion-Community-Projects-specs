@@ -365,3 +365,19 @@ This innovative application harnesses the power of artificial intelligence to pr
 - [ ] [User Feedback & Improvement](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/204)
 
 
+
+
+## Feature: Unified Idea Manager for Chrome
+The Unified Idea Manager for Chrome is an extension designed to solve the problem of scattered thoughts across multiple note-taking platforms. It offers a streamlined way to capture and organize your ideas by reminding you to save them in a predefined, centralized location. Upon encountering something you wish to remember or note down, the extension prompts you with your preferred storage choice, whether it's a specific app or service you’ve designated. This prevents the fragmentation of notes and ideas, promoting easy retrieval and efficient organization. The benefits include decluttering your digital workspace, saving time by reducing the need to search across platforms, and enhancing productivity by keeping your thoughts structured and accessible with a single click.
+
+***Stories***
+- [ ] [Popup Interface for Idea Location Reminder](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/206)
+- [ ] [URL Detection Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/207)
+- [ ] [Note Category Management](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/208)
+- [ ] [Storage Organization for Chrome Extension](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/209)
+- [ ] [Reminder Notification Creation](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/210)
+- [ ] [Preference Management](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/211)
+- [ ] [Centralized Note-saving Reminder](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/212)
+- [ ] [Reminder Extension for Note-taking Tools](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/213)
+
+
