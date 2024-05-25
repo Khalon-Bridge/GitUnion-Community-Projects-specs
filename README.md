@@ -444,3 +444,19 @@ Health Prompter is a browser extension designed to support users’ health and w
 - [ ] [Analytics Dashboard](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/248)
 
 
+
+
+## Feature: Focus Guardian - Your Proactive Productivity Partner
+Focus Guardian is a Chrome extension designed to tackle procrastination and distraction by actively monitoring your browsing habits against your declared task objectives. Upon activation, users input their specific goal for the session, which Focus Guardian uses as a reference to ascertain the relevance of their active tabs. By analyzing the content and context of each tab against the user-provided goal, the extension can identify when the user deviates from their intended task. Through a combination of gentle reminders, motivational messages, and customizable alerts, Focus Guardian nudges the user back on track, fostering a disciplined digital work environment. It addresses the common problem of digital distraction to enhance focus, increase productivity, and help users achieve their goals more efficiently.
+
+***Stories***
+- [ ] [UserInputGoal](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/250)
+- [ ] [TabContextAnalysis Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/251)
+- [ ] [Distraction Detection](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/252)
+- [ ] [Alerts and Notifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/253)
+- [ ] [Productivity Reporting Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/254)
+- [ ] [Whitelist Management](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/255)
+- [ ] [UserSettings Specification](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/256)
+- [ ] [Extension Feedback Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/257)
+
+
