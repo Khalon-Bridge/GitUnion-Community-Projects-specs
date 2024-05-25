@@ -428,3 +428,19 @@ The Daily Summary Slackbot is an automated tool designed to provide users with a
 - [ ] [UpcomingEvents Summary Generation](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/239)
 
 
+
+
+## Feature: Health Prompter: AI-Powered Wellness Reminders
+Health Prompter is a browser extension designed to support users’ health and well-being by providing AI-generated custom reminders to eat, hydrate, and stretch. In today's fast-paced environment, maintaining regular health habits can be challenging, as work and other activities might distract from vital self-care routines. This extension offers a solution by analyzing user activity and prompting timely reminders, effectively tackling forgetfulness and negligence regarding personal health. The reminders are intelligent, learning users' patterns to avoid interruptions during intense work periods and ensuring prompts are well-timed to correlate with natural breaks. With nudges to hydrate, reminders to have a meal or a snack, and prompts to perform brief stretching exercises, this tool is designed to improve users’ productivity, hydration, nutrition, and physical well-being by encouraging consistent and healthy lifestyle practices directly from their browser. This not only benefits personal health but can also lead to improved focus and work performance, promoting a balanced approach to daily tasks and long-term wellness.
+
+***Stories***
+- [ ] [User Preferences Specification](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/241)
+- [ ] [ReminderScheduler Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/242)
+- [ ] [NotificationManager Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/243)
+- [ ] [AIContentGenerator Extension Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/244)
+- [ ] [ActivityTracker Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/245)
+- [ ] [Reminder Extension Settings](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/246)
+- [ ] [Custom Reminder System](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/247)
+- [ ] [Analytics Dashboard](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/248)
+
+
