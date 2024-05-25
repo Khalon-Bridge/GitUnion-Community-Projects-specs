@@ -413,3 +413,18 @@ This AI-powered tool seamlessly integrates with Notion, intelligently parsing th
 - [ ] [Performance Tracking for AI-Powered Task Generation](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/231)
 
 
+
+
+## Feature: Daily Summary Slackbot
+The Daily Summary Slackbot is an automated tool designed to provide users with a consolidated report of the day's most important discussions, shared files, and action items within a Slack community. This bot addresses the challenge of information overload by parsing through channels and direct messages to extract key takeaways, ensuring that members stay informed without needing to sift through a deluge of messages. It enhances productivity by highlighting critical information, enabling users to catch up quickly on missed conversations. The bot also supports custom configurations, allowing users to specify which channels to include in the summary and at what time they prefer to receive the digest. This feature is beneficial for remote teams, individuals managing multiple projects, and any Slack user who wants to stay up-to-date effortlessly.
+
+***Stories***
+- [ ] [Trending Topics Summary](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/233)
+- [ ] [MostActiveChannel](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/234)
+- [ ] [Daily Summary Generation](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/235)
+- [ ] [Daily Summary Slackbot](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/236)
+- [ ] [Daily Summary Slackbot](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/237)
+- [ ] [Daily Community Summary](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/238)
+- [ ] [UpcomingEvents Summary Generation](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/239)
+
+
