@@ -508,3 +508,19 @@ The AI Interview Coach is an advanced digital tool designed to enhance your inte
 - [ ] [Behavioral Tip Database](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/284)
 
 
+
+
+## Feature: SiteCustomizer: Personalized Website Adjustments with GPT Integration
+SiteCustomizer is a Chrome extension designed to empower users to identify and propose changes to website elements they find suboptimal. Utilizing AI through OpenAI's GPT, the extension allows users to seamlessly grab the HTML and CSS code of the current webpage, suggest natural language alterations, and generate revised code segments. Users can then review the AI's suggestions, refine them, and create a proposal for website improvements, which can be directly submitted to the website owner. Key benefits include enhanced user experience through personalization, fostering web accessibility improvements, and enabling non-technical users to contribute to website enhancement by leveraging AI-powered code generation.
+
+***Stories***
+- [ ] [User Authentication Specifications for a Chrome Extension](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/286)
+- [ ] [Website Code Extraction](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/287)
+- [ ] [Code Editing Interface Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/288)
+- [ ] [GPT Integration for Website Customization](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/289)
+- [ ] [Change Submission Mechanism](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/290)
+- [ ] [Chrome Extension Settings for Website Customization](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/291)
+- [ ] [Feedback and Reporting for Chrome Extension](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/292)
+- [ ] [Website Code Modification and Outreach Feature](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/293)
+
+
