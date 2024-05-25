@@ -333,3 +333,19 @@ This AI tool is designed to aid individuals in tracking and summarizing their da
 - [ ] [Integration with Other Tools](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/186)
 
 
+
+
+## Feature: IntellectMatch: Monthly Themed Discussion Swipes
+IntellectMatch is a novel social networking app designed to connect people with shared interests for insightful 20-minute discussions on thoughtfully curated topics. The app addresses the problem of surface-level networking and the difficulty in finding conversation partners who share specific intellectual pursuits. Users set their interest profiles upon registration, and the app employs a sophisticated algorithm to select monthly topics that resonate with the community's common interests. Benefits include fostering meaningful dialogue, expanding one's knowledge base, and building a network of peers dedicated to various subjects. Discussions are time-boxed to ensure focused and concise exchanges, making efficient use of participants' time while enabling them to engage regularly with new and familiar faces alike.
+
+***Stories***
+- [ ] [User Registration](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/188)
+- [ ] [Interest Profiling and Preferences](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/189)
+- [ ] [Matching Algorithm Configuration](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/190)
+- [ ] [Discussion Topic Generation](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/191)
+- [ ] [Monthly Meeting Scheduler Specification](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/192)
+- [ ] [Chat and Communication Tools](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/193)
+- [ ] [User Feedback and Rating System](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/194)
+- [ ] [Privacy Settings and Security Specifications](https://github.com/Khalon-Bridge/GitUnion-Community-Projects-specs/issues/195)
+
+
